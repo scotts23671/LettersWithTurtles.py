@@ -53,7 +53,9 @@ def turtleLetter(letter,tur):
     elif letter == "I":
 	    pass
     elif letter == "J":
-	    pass
+	tur.setheading(0)
+	tur.pu
+	tur.fd(
     elif letter == "K":
 	    pass
     elif letter == "L":
